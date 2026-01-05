@@ -52,4 +52,3 @@ When working through these exercises, keep these three pillars in mind:
 * **InterruptedException:** Always handle this when using `Thread.sleep()`. It’s the thread's way of saying someone tried to stop it.
 * **Shutdown:** Always call `executorService.shutdown()` when you are done, otherwise your Java program might never exit!
 
-**Would you like me to provide a starter code template for Phase 1, or should we jump straight into a solution for the Thread Pool phase?**
